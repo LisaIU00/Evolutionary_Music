@@ -1,7 +1,8 @@
 # Evolutionary_Music
 
 Attività prrogettuale di Fondamenti di Intelligenza Artificiale M
-Alma Mater Studiorum UNIBO
+
+Alma Mater Studiorum UNIBO - Corso laurea magistrale Ingegneria Informatica
 Professoressa Mello P. e Professor Roli A.
 
 ## Esecuzione codice
